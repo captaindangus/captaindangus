@@ -1,8 +1,8 @@
 ## Hey I'm Josh 🙋
-- 🌌 I'm a multi-disciplinary creative 
-- 🧑‍🎓 A lifelong learner 
+- 🌌 Multi-disciplinary creative 
+- 🧑‍🎓 Lifelong learner 
 - 🐶 Proud dog dad 
-- 📫 Find me at: joshcreatesthings.com 
+- 📫 joshcreatesthings.com 
 
 <!--
 **captaindangus/captaindangus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
