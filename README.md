@@ -1,7 +1,7 @@
 ## Hey I'm Josh 🙋
 - 🌌 Multi-disciplinary creative 
 - 🧑‍🎓 Lifelong learner 
-- 🐶 Proud dog dad 
+- 🐶 Dog dad 
 - 📫 joshcreatesthings.com 
 
 <!--
